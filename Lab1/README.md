@@ -7,4 +7,4 @@
 3) Методы доступа к полям;
 4) Методы, реализующие вычисление норм
 
-![screenshot](/example.png?raw=true)
+![screenshot](/Lab1/example.png?raw=true)
